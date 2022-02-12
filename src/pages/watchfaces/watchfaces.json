@@ -444,10 +444,10 @@
         "id" : "49",
         "name" : "Slacker",
         "author" : "uCBill",
-        "screenshot" : "https://raw.githubusercontent.com/uCBill/Slacker/main/Slacker.gif",
+        "screenshot" : "https:/github.com/uCBill/Slacker/blob/slacker_120/Slacker.gif",
         "source" : "https://github.com/uCBill/Slacker",
         "ota_bin" : false,
-        "version" : "1.0.0"
+        "version" : "1.2.0"
     },
     {
         "id" : "50",
